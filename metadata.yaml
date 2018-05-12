@@ -1,0 +1,37 @@
+_repo: Rocky-Mountain-BoysCamping-in-the-Big-Game-Country_37803
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rathborne, St. George
+    aliases:
+    - Adams, Harrison
+    - Old Broadbrim
+    birthdate: 1854
+    deathdate: 1938
+    gutenberg_agent_id: '1599'
+    url: http://www.gutenberg.org/2009/agents/1599
+    wikipedia:
+    - http://www.gutenberg.org/ebooks/author/2624
+    - http://www.gutenberg.org/ebooks/author/45240
+    - http://en.wikipedia.org/wiki/St._George_Rathborne
+    - http://www.gutenberg.org/ebooks/author/4161
+description: ''
+gutenberg_issued: '2011-10-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37803'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rocky Mountains -- Juvenile fiction'
+- !lcsh 'Camping -- Juvenile fiction'
+- !lcsh 'Hunting stories'
+- !lcc 'PZ'
+- !lcsh 'Wyoming -- Juvenile fiction'
+title: Rocky Mountain Boys; Or, Camping in the Big Game Country
+url: http://www.gutenberg.org/ebooks/37803
