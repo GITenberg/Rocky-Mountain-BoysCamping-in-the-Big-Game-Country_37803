@@ -19,6 +19,8 @@ creator:
     - http://en.wikipedia.org/wiki/St._George_Rathborne
     - http://www.gutenberg.org/ebooks/author/4161
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37803#Rocky-Mountain-BoysCamping-in-the-Big-Game-Country
 gutenberg_issued: '2011-10-19'
 gutenberg_type: Text
 identifiers:
